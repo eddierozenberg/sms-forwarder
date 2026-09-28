@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SMS Forwarder</string>
+    <string name="help_text">Personal sideload app. Incoming SMS is forwarded to the number below as: [Fwd] From &lt;sender&gt;: &lt;body&gt;</string>
+    <string name="target_hint">Forward to phone number</string>
+    <string name="save">Save number</string>
+    <string name="grant_permissions">Grant SMS permissions</string>
+    <string name="enable_forwarding">Enable forwarding</string>
+</resources>
